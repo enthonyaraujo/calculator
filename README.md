@@ -1,2 +1,2 @@
 # Calculator
-- Just a calculator to train html, css and javascript
+- simple calculator project to train html, css and javaScript
